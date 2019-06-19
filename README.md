@@ -1,1 +1,3 @@
-# ai-ml-usecases
+# AI / ML Usecases
+
+1. Analysing / Predicting Sentiment from Product Reviews ([notebook](notebooks/Analyzing Product Sentiment.ipynb))
